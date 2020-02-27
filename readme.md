@@ -31,3 +31,7 @@ The input file (`pattern.png`) and output path (`tiles`) are set at the top of `
 ## Slice map
 
 The file `slicemap.py` contains the actual slicing parameters, in the form of a Dict. For starters, it contains a `baseset` array. This array consists of couples of coördinates, each defining a rectangular slice by its top left and bottom right corners. You can create other named sets within the slicemap dict, defining other areas for slicing. These will also be created when `slicer.py` is run. The set's name is prefixed to the file names.
+
+## Making an art
+
+If you make neat stuff with these tiles, please consider using the 'official' Fri3d Camp 2020 colors you can find in our [styleguide](https://www.fri3d.be/en/styleguide/). You can also find an svg version there of the site's header visual.
