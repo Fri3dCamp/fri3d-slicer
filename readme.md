@@ -2,6 +2,8 @@
 
 This Python3 script slices up the Fri3d Camp pattern into tiles which you can use in creative ways. It can also easily be adapted to slice any image.
 
+![pattern](pattern.png)
+
 ## Requirements
 
 - Python 3.x, you can probably make the syntax compatible with Python 2.7, but why would you?
